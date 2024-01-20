@@ -1,0 +1,11 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#loader {
+    display: none;
+}
+
+.pagination {
+    margin-top: 20px;
+}
